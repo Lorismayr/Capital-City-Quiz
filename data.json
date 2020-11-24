@@ -1,0 +1,198 @@
+[ 
+ { "Country" : "Aegypten", "City" : "Cairo", "alternate" : [], "picture" : "aegypten.png" }
+, 
+ { "Country" : "Algerien", "City" : "Algier", "alternate" : [], "picture" : "algerien.png" }
+, 
+ { "Country" : "Angola", "City" : "Luanda", "alternate" : [], "picture" : "angola.png" }
+, 
+ { "Country" : "Aequatorialguinea", "City" : "Malabo", "alternate" : [], "picture" : "aequatorialguinea.png" }
+, 
+ { "Country" : "Aethiopien", "City" : "Addis Abeba", "alternate" : [], "picture" : "aethiopien.png" }
+, 
+ { "Country" : "Benin", "City" : "Porto-Novo", "alternate" : ["porto novo", "portonovo"], "picture" : "benin.png" }
+, 
+ { "Country" : "Botswana", "City" : "Gaborone", "alternate" : [], "picture" : "botswana.png" }
+, 
+ { "Country" : "Bukina-Faso", "City" : "Ouagadougou", "alternate" : [], "picture" : "burkinafaso.png" }
+, 
+ { "Country" : "Burundi", "City" : "Gitege", "alternate" : [], "picture" : "burundi.png" }
+, 
+ { "Country" : "Dschibuti", "City" : "Dschibuti-Stadt", "alternate" : ["dschibuti stadt", "dschibuti"], "picture" : "dschibuti.png" }
+, 
+ { "Country" : "Elfenbeinkueste", "City" : "Yamoussoukro", "alternate" : [], "picture" : "elfenbeinkueste.png" }
+, 
+ { "Country" : "Eritrea", "City" : "Asmara", "alternate" : [], "picture" : "eritrea.png" }
+, 
+ { "Country" : "Gabun", "City" : "Libreville", "alternate" : [], "picture" : "gabun.png" }
+, 
+ { "Country" : "Gambia", "City" : "Banjul", "alternate" : [], "picture" : "gambia.png" }
+, 
+ { "Country" : "Ghana", "City" : "Accra", "alternate" : [], "picture" : "ghana.png" }
+, 
+ { "Country" : "Guinea", "City" : "Conakry", "alternate" : [], "picture" : "guinea.png" }
+, 
+ { "Country" : "Guinea-Bissau", "City" : "Bissau", "alternate" : [], "picture" : "guinea-bissau.png" }
+, 
+ { "Country" : "Kamerun", "City" : "Yaounde", "alternate" : [], "picture" : "kamerun.png" }
+, 
+ { "Country" : "Kap Verde", "City" : "Praia", "alternate" : [], "picture" : "kapverde.png" }
+, 
+ { "Country" : "Kenia", "City" : "Nairobi", "alternate" : [], "picture" : "kenia.png" }
+, 
+ { "Country" : "Komoren", "City" : "Moroni", "alternate" : [], "picture" : "komoren.png" }
+, 
+ { "Country" : "Demokratische Republik Kongo", "City" : "Kinshasa", "alternate" : [], "picture" : "kongo1.png" }
+, 
+ { "Country" : "Republik Kongo", "City" : "Brazzaville", "alternate" : [], "picture" : "kongo2.png" }
+, 
+ { "Country" : "Lesotho", "City" : "Maseru", "alternate" : [], "picture" : "lesotho.png" }
+, 
+ { "Country" : "Liberia", "City" : "Monrovia", "alternate" : [], "picture" : "liberia.png" }
+, 
+ { "Country" : "Libyen", "City" : "Tripolis", "alternate" : [], "picture" : "libyen.png" }
+, 
+ { "Country" : "Madagaskar", "City" : "Antananarivo", "alternate" : [], "picture" : "madagaskar.png" }
+, 
+ { "Country" : "Malawi", "City" : "Lilongwe", "alternate" : [], "picture" : "malawi.png" }
+, 
+ { "Country" : "Mali", "City" : "Bamako", "alternate" : [], "picture" : "mali.png" }
+, 
+ { "Country" : "Marokko", "City" : "Rabat", "alternate" : [], "picture" : "marokko.png" }
+, 
+ { "Country" : "Mauretanien", "City" : "Nouakchott", "alternate" : [], "picture" : "mauretanien.png" }
+, 
+ { "Country" : "Mauritius", "City" : "Port Louis", "alternate" : ["port-louis,portlouis"], "picture" : "mauritius.png" }
+, 
+ { "Country" : "Mosambik", "City" : "Maputo", "alternate" : [], "picture" : "mosambik.png" }
+, 
+ { "Country" : "Namibia", "City" : "Windhoek", "alternate" : [], "picture" : "namibia.png" }
+, 
+ { "Country" : "Niger", "City" : "Niamey", "alternate" : [], "picture" : "niger.png" }
+, 
+ { "Country" : "Nigeria", "City" : "Abuja", "alternate" : [], "picture" : "nigeria.png" }
+, 
+ { "Country" : "Ruanda", "City" : "Kigali", "alternate" : [], "picture" : "ruanda.png" }
+, 
+ { "Country" : "Sambia", "City" : "Lusaka", "alternate" : [], "picture" : "sambia.png" }
+, 
+ { "Country" : "Sao Tome und Principe", "City" : "Sao Tome", "alternate" : [], "picture" : "saotomeundprincipe.png" }
+, 
+ { "Country" : "Senegal", "City" : "Dakar", "alternate" : [], "picture" : "senegal.png" }
+, 
+ { "Country" : "Seychellen", "City" : "Victoria", "alternate" : [], "picture" : "seychellen.png" }
+, 
+ { "Country" : "Sierra Leone", "City" : "Freetown", "alternate" : [], "picture" : "sierraleone.png" }
+, 
+ { "Country" : "Simbabwe", "City" : "Harare", "alternate" : [], "picture" : "simbabwe.png" }
+, 
+ { "Country" : "Somalia", "City" : "Mogadischu", "alternate" : [], "picture" : "somalia.png" }
+, 
+ { "Country" : "Sued Afrika", "City" : "Pretoria", "alternate" : [], "picture" : "suedafrika.png" }
+, 
+ { "Country" : "Sudan", "City" : "Khartum", "alternate" : [], "picture" : "sudan.png" }
+, 
+ { "Country" : "Suedsudan", "City" : "Juba", "alternate" : [], "picture" : "suedsudan.png" }
+, 
+ { "Country" : "Swasiland", "City" : "Mbabane", "alternate" : [], "picture" : "swasiland.png" }
+, 
+ { "Country" : "Tansania", "City" : "Dodoma", "alternate" : [], "picture" : "tansania.png" }
+, 
+ { "Country" : "Togo", "City" : "Lome", "alternate" : [], "picture" : "togo.png" }
+, 
+ { "Country" : "Tschad", "City" : "N'Djamena", "alternate" : ["ndjamena"], "picture" : "tschad.png" }
+, 
+ { "Country" : "Tunesien", "City" : "Tunis", "alternate" : [], "picture" : "tunesien.png" }
+, 
+ { "Country" : "Uganda", "City" : "Kampala", "alternate" : [], "picture" : "uganda.png" }
+, 
+ { "Country" : "Westsahara", "City" : "El Aaiun", "alternate" : ["elaaiun"], "picture" : "westsahara.png" }
+, 
+ { "Country" : "Zentralafrikanische Republik", "City" : "Bangui", "alternate" : [], "picture" : "zentralafrikanischerepublik.png" }
+,
+ { "Country" : "Mongolei", "City" : "Ulaanbaatar", "alternate" : [], "picture" : "mongolei.png"}
+,
+ { "Country" : "Russland", "City" : "Moskau" , "alternate" : [], "picture" : "russland.png" }
+,
+ {"Country" : "Volksrepublik China", "City" : "Peking", "alternate" : [], "picture" : "volksrepublikchina.png" }
+,
+ {"Country" : "Republik China", "City" : "Taipeh", "alternate" : [], "picture" : "repulikchina.png"}
+,
+ {"Country" : "Japan", "City" : "Tokio", "alternate" : [], "picture": "japan.png"}
+,
+ {"Country" : "Nord Korea", "City" : "Pjoengjang", "alternate" : [], "picture" : "nordkorea.png"}
+,
+ {"Country" : "Sued Korea", "City" : "Seoul", "alternate" : [], "picture" : "suedkorea.png"}
+,
+ {"Country" : "Bangladesch", "City" : "Dhaka" ,"alternate" : [], "picture" : "bangladesh.png"}
+,
+ {"Country" : "Bhutan", "City" : "Thimphu", "alternate" : [], "picture" : "bhutan.png"}
+,
+ {"Country" : "Indien", "City" : "Neu-Delhi", "alternate" : ["neu delhi", "neudelhi"], "picture" : "indien.png" }
+ ,
+ {"Country" : "Malediven", "City" : "Male", "alternate" : [], "picture" : "malediven.png" }
+ ,
+ {"Country" : "Nepal", "City" : "Kathmandu", "alternate" : [], "picture" : "nepal.png" }
+ ,
+ {"Country" : "Pakistan", "City" : "Islambad", "alternate" : [], "picture" : "pakistan.png" }
+ ,
+ {"Country" : "Sri Lanka", "City" : "Colombo", "alternate" : [], "picture" : "srilanka.png" }
+ ,
+ {"Country" : "Brunei", "City" : "Bandar Seri Begawan", "alternate" : [], "picture" : "brunei.png" }
+ ,
+ {"Country" : "Indonesien", "City" : "Jakarta", "alternate" : [], "picture" : "indonesien.png" }
+ ,
+ {"Country" : "Kambodscha", "City" : "Phnom Penh", "alternate" : [], "picture" : "kambodscha.png" }
+ ,
+ {"Country" : "Laos", "City" : "Vientiane", "alternate" : [], "picture" : "Laos.png" }
+ ,
+ {"Country" : "Malaysia", "City" : "Kuala Lumpur", "alternate" : [], "picture" : "malaysia.png" }
+ ,
+ {"Country" : "Myanmar", "City" : "Naypyidaw", "alternate" : [], "picture" : "myanmar.png" }
+ ,
+ {"Country" : "Philippinen", "City" : "Manila", "alternate" : [], "picture" : "philippinien.png" }
+ ,
+ {"Country" : "Singapur", "City" : "Singapur", "alternate" : [], "picture" : "singapur.png" }
+ ,
+ {"Country" : "Thailand", "City" : "Bangkok", "alternate" : [], "picture" : "thailand.png" }
+ ,
+ {"Country" : "Osttimor", "City" : "Dili", "alternate" : [], "picture" : "osttimor.png" }
+ ,
+ {"Country" : "Vietnam", "City" : "Hanoi", "alternate" : [], "picture" : "vietnam.png" }
+ ,
+ {"Country" : "Armenien", "City" : "Jerewan", "alternate" : [], "picture" : "armenien.png" }
+ ,
+ {"Country" : "Aserbaidschan", "City" : "Baku", "alternate" : [], "picture" : "aserbaidschan.png" }
+ ,
+ {"Country" : "Irak", "City" : "Bagdad", "alternate" : [], "picture" : "irak.png" }
+ ,
+ {"Country" : "Georgien", "City" : "Tiflis", "alternate" : [], "picture" : "georgien.png" }
+ ,
+ {"Country" : "Bahrain", "City" : "Manama", "alternate" : [], "picture" : "bahrain.png" }
+ ,
+ {"Country" : "Iran", "City" : "Teheran", "alternate" : [], "picture" : "iran.png" }
+ ,
+ {"Country" : "Israel", "City" : "Jerusalem", "alternate" : [], "picture" : "israel.png" }
+ ,
+ {"Country" : "Jemen", "City" : "Sanaa", "alternate" : [], "picture" : "jemen.png" }
+ ,
+ {"Country" : "Jordanien", "City" : "Amman", "alternate" : [], "picture" : "jordanien.png" }
+ ,
+ {"Country" : "Katar", "City" : "Doha", "alternate" : [], "picture" : "katar.png" }
+ ,
+ {"Country" : "Kuwait", "City" : "Kuwait", "alternate" : ["Kuwait Stadt", "Kuwait-Stadt", "Kuwait-City", "Kuwait City"], "picture" : "kuwait.png" }
+ ,
+ {"Country" : "Libanon", "City" : "Beirut", "alternate" : [], "picture" : "libanon.png" }
+ ,
+ {"Country" : "Oman", "City" : "Maskat", "alternate" : [], "picture" : "oman.png" }
+ ,
+ {"Country" : "Saudi-Arabien", "City" : "Riad", "alternate" : [], "picture" : "saudi-arabien.png" }
+ ,
+ {"Country" : "Syrien", "City" : "Damaskus", "alternate" : [], "picture" : "syrien.png" }
+ ,
+ {"Country" : "Tuerkei", "City" : "Ankara", "alternate" : [], "picture" : "tuerkei.png" }
+ ,
+ {"Country" : "Nord-Zypern", "City" : "Nord-Nikosia", "alternate" : ["nord nikosia", "nikosia"], "picture" : "nord-zypern.png" }
+
+ ]
+ 
+ 
