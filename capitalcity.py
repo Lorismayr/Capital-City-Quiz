@@ -275,7 +275,7 @@ listbox = Listbox(bg="#ffffff", font=(
     "sans-serif", 20, "bold"), width=40, height=10)
 
 # button for the next question
-weiterbutton = Button(root, text="weiter ",
+weiterbutton = Button(root, text="next ",
                       font=("sans-serif", 20, "bold"),
                       background="#ffffff",
                       width=7,
