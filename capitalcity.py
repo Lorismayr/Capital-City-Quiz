@@ -122,7 +122,7 @@ def endGame():
         data[spieler.name.lower()] = spieler.points
     with open('players.json', 'w') as f:
         json.dump(data, f)
-    bestrank = sorted(data.items(), key=lambda k, v: v, reverse=True)
+    bestrank = sorted(data.items(), key=lambda x: x[1], reverse=True)
     for i in range(len(bestrank)):
         if i > 19:
             break
