@@ -8,3 +8,7 @@ Rules:
 correct answer: +1 point
 false answer: +1 strike 
 misspelling: no strike no point 
+
+1.) 
+
+2.)
