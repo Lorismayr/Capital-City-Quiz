@@ -12,6 +12,7 @@ Here on the screenshot below you can see how it looks like, when you give a wron
 <p align="center">
   <img src="Pictures/wrong2.png" width="600">
 </p>
+
 ## Features
 We implemented a mechanism to detect spelling errors. Thus, our program can distinguish whether the user just misspelled the capital or did not answer correctly. On the picture below one can see an example of how this looks like.
 
