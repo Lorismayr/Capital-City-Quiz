@@ -20,6 +20,7 @@ We implemented a mechanism to detect spelling errors. Thus, our program can dist
 <p align="center">
   <img src="Pictures/spelling.png" width="600">
 </p>  
-Let `sol := correct answer`  
+Let `sol`  
+hehe
 
 
