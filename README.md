@@ -1,5 +1,5 @@
 # Capital-City-Quiz
-This repository contains a game about the capitals of Africa and Asia. 
+This repository contains a game about the capitals of Africa and Asia.  
 It is designed to help the user learn the capitals. For didactic reasons, no multiple choice answers are provided, but the user must type in the capital of the displayed country.Thus, he also learns to write the names of the cities correctly.
 
 ## Rules
