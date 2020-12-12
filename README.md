@@ -26,10 +26,8 @@ We implemented a mechanism to detect spelling errors. Thus, our program can dist
 
 
 Let `sol := corret answer` and let `word := answer provided by user`, then an `word` is conidered as misspelled if  
+`Levenshteindistance(sol, word) > 0 and Levenshteindistance(sol, word) <= len(sol)` where `len(sol)`is the number of characters in `sol`.
 
 
-$$ a^2 + b^2 $$
 
-
-hehe
 
