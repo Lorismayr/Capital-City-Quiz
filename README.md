@@ -8,6 +8,10 @@ On the screenshot below you can see how it looks like, when you give a correct a
 <p align="center">
   <img src="Pictures/correct.png" width="600">
 </p>
+Here on the screenshot below you can see how it looks like, when you give a wrong answer. As one can see the correct answer then, is immediately displayed.
+<p align="center">
+  <img src="Pictures/wrong.png" width="600">
+</p>
 
 
 
