@@ -5,7 +5,7 @@ It is designed to help the user learn the capitals. For didactic reasons, no mul
 ## Rules
 The user must enter a user name. Then he is repeatedly asked about the capital of a country from the database. The country is drawn randomly from the database. In the upper left corner of the interface, the player  can see his score. There is one point per correct answer. In the upper right corner the player can see his strikes. There is also one strike per wrong answer.The game is over when the player has 3 strikes. At the end, a ranking of the points is displayed.  
 On the screenshot below you can see how it looks like, when you give a correct answer.
-<img src="Picutes/correct.png" width="200">
+<img src="Pictures/correct.png" width="200">
 
 
 
