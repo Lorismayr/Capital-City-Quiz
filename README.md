@@ -22,7 +22,7 @@ We implemented a mechanism to detect spelling errors. Thus, our program can dist
 </p>
 In the case of a spelling error, the user receives neither a point nor a strike.  
 To detect spelling errors we computed the Levenshtein distance between the correct answer and the answer the user provided.  
-Let <em>sol := the correct answer</em> and <em>word := the answer provided by the user</em>, then the <em>word</em> is considered as misspelled if  
+Let `sol := the correct answer</em> and <em>word := the answer provided by the user`, then the <em>word</em> is considered as misspelled if  
 $$a^2 + b^2 $$  
 where <em>len(sol)</em> is the number of characters in the solution.
 
