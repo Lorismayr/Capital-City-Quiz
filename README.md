@@ -1,5 +1,6 @@
 # Capital-City-Quiz
 This repository contains a game about the capitals of Africa and Asia.  
+*This text will be italic*  
 It is designed to help the user learn the capitals. For didactic reasons, no multiple choice answers are provided, but the user must type in (case insensitive) the capital of the displayed country.Thus, he also learns to write the names of the cities correctly.
 
 ## Rules
@@ -20,22 +21,4 @@ We implemented a mechanism to detect spelling errors. Thus, our program can dist
 <p align="center">
   <img src="Pictures/spelling.png" width="600">
 </p>
-In the case of a spelling error, the user receives neither a point nor a strike.  
-To detect spelling errors we computed the Levenshtein distance between the correct answer and the answer the user provided.  
-Let `sol := the correct answer</em> and <em>word := the answer provided by the user`, then the <em>word</em> is considered as misspelled if  
-$$a^2 + b^2 $$  
-where <em>len(sol)</em> is the number of characters in the solution.
 
-
-
-Quiz Game
-
-
-Rules: 
-correct answer: +1 point
-false answer: +1 strike 
-misspelling: no strike no point 
-
-1.) 
-
-2.)
