@@ -23,7 +23,7 @@ We implemented a mechanism to detect spelling errors. Thus, our program can dist
 In the case of a spelling error, the user receives neither a point nor a strike.  
 To detect spelling errors we computed the Levenshtein distance between the correct answer and the answer the user provided.  
 Let *sol := the correct answer* and *word := the answer provided by the user*, then the *word* is considered as misspelled if
-\\[ Levenshteindistance(sol,word) >0 \text{ and } Levenshteindistance(sol,word) \leq len(sol)   \\]
+\\[a^2 + b^2 \\]  
 where *len(sol)* is the number of characters in the solution.
 
 
