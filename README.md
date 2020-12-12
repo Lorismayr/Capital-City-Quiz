@@ -1,6 +1,5 @@
 # Capital-City-Quiz
 This repository contains a game about the capitals of Africa and Asia.  
-`hello world`  
 It is designed to help the user learn the capitals. For didactic reasons, no multiple choice answers are provided, but the user must type in (case insensitive) the capital of the displayed country.Thus, he also learns to write the names of the cities correctly.
 
 ## Rules
@@ -20,5 +19,7 @@ Here on the screenshot below you can see how it looks like, when you give a wron
 We implemented a mechanism to detect spelling errors. Thus, our program can distinguish whether the user just misspelled the capital or did not answer correctly. On the picture below one can see an example of how this looks like.
 <p align="center">
   <img src="Pictures/spelling.png" width="600">
-</p>
+</p>  
+Let `sol := correct answer`  
+
 
