@@ -25,7 +25,7 @@ We implemented a mechanism to detect spelling errors. Thus, our program can dist
     
 
 
-Let `sol`  
+Let `sol := corret answer` and let `word := answer provided by user`, then an `word` is conidered as misspelled if  
 hehe
 
 
