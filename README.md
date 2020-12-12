@@ -8,10 +8,12 @@ On the screenshot below you can see how it looks like, when you give a correct a
 <p align="center">
   <img src="Pictures/correct.png" width="600">
 </p>
-Here on the screenshot below you can see how it looks like, when you give a wrong answer. As one can see the correct answer then, is immediately displayed.
+Here on the screenshot below you can see how it looks like, when you give a wrong answer. As one can see in this case the correct answer immediately displayed.
 <p align="center">
   <img src="Pictures/wrong2.png" width="600">
 </p>
+## Features
+We implemented a mechanism to detect spelling errors. Thus, our program can distinguish whether the user just misspelled the capital or did not answer correctly. On the picture below one can see an example of how this looks like.
 
 
 
