@@ -53,8 +53,10 @@ This repository contains the following files:
 5. `players.json`
   * contains the database of the players, used for the ranking
 
+The `Pictures` folder contains all the pictures used in the game. All the Pictures of the Countries are taken from Wikipedia.
 
-
-
-
+## Contributers
+* Loris Mayr
+* Flavian Neggri
+* Eymeric Zougs
 
