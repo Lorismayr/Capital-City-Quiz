@@ -39,10 +39,9 @@ We implemented a mechanism to detect spelling errors. Thus, our program can dist
     
     
 
-
+The algorithm is implemented using dynamic programming in O(mn). For further details please take a look at https://en.wikipedia.org/wiki/Levenshtein_distance  
 Let `sol := corret answer` and let `word := answer provided by user`, then `word` is conidered as misspelled if  
 `Levenshteindistance(sol, word) > 0 and Levenshteindistance(sol, word) <= len(sol)` where `len(sol)`is the number of characters in `sol`.  
-The algorithm is implemented using dynamic programming in O(mn). For further details please take a look at https://en.wikipedia.org/wiki/Levenshtein_distance
 
 
 ## Structure
