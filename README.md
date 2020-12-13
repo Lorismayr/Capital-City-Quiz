@@ -6,6 +6,8 @@ Everything used in this repository is standard Python which makes it easy to bui
 
 ## Setup
 The only requirements are `Python 3` you can downloaded it for free [here](https://www.python.org/downloads/).
+1. Clone the repo via HTTPS:  
+`$ git clone`
 
 
 
