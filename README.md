@@ -1,6 +1,13 @@
 # Capital-City-Quiz
 This repository contains a game about the capitals of Africa and Asia.  
-It is designed to help the user learn the capitals. For didactic reasons, no multiple choice answers are provided, but the user must type in (case insensitive) the capital of the displayed country.Thus, he also learns to write the names of the cities correctly.
+It is designed to help the user learn the capitals interactively. For didactic reasons, no multiple choice answers are provided, but the user must type in (case insensitive) the capital of the displayed country.Thus, he also learns to write the names of the cities correctly.  
+The Graphical User Interface is implemented using the `tkinter` package https://docs.python.org/3/library/tkinter.html which is the standard Python interface, the beautiful `JSON` format was used for the implementation of the databases https://www.json.org/json-en.html.   
+Everything used in this repository is standard Python which makes it easy to build and recompile this program on your one machine.
+
+## Setup
+The only requirements are `Python 3` you can downloaded it for free [here](https://www.python.org/downloads/).
+
+
 
 ## Rules
 The user must enter a user name. Then he is repeatedly asked about the capital of a country from the database. The country is drawn randomly from the database. In the upper left corner of the interface, the player  can see his score. There is one point per correct answer. In the upper right corner the player can see his strikes. There is also one strike per wrong answer.The game is over when the player has 3 strikes. At the end, a ranking of the points is displayed.  
