@@ -20,10 +20,15 @@ On the screenshot below you can see how it looks like, when you give a correct a
 <p align="center">
   <img src="Pictures/correct.png" width="600">
 </p>
-Here on the screenshot below you can see how it looks like, when you give a wrong answer. As one can see in this case the correct answer immediately displayed.
+Here on the screenshot below you can see how it looks like, when you give a wrong answer. As one can see in this case the correct answer is immediately displayed.
 <p align="center">
   <img src="Pictures/wrong2.png" width="600">
 </p>
+And finally on the screenshot below one can see how it looks like at the end of the game when the ranking is displayed.
+<p align="center">
+  <img src="Pictures/ranking.png" width="600">
+</p>
+
 
 ## Features
 We implemented a mechanism to detect spelling errors. Thus, our program can distinguish whether the user just misspelled the capital or did not answer correctly. On the picture below one can see an example of how this looks like.
