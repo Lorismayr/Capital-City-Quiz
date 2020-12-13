@@ -7,7 +7,9 @@ Everything used in this repository is standard Python which makes it easy to bui
 ## Setup
 The only requirements are `Python 3` you can downloaded it for free [here](https://www.python.org/downloads/).
 1. Clone the repo via HTTPS:  
-`$ git clone`
+`$ git clone https://github.com/Lorismayr/Capital-City-Quiz.git`  
+2. Run the `capitalcity.py` file as `Python3` in your favorite Editor/IDE.
+3. Have Fun!
 
 
 
