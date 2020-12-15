@@ -61,6 +61,6 @@ The `Pictures` folder contains all the pictures used in the game. All the Pictur
 
 ## Contributers
 * Loris Mayr
-* Flavian Neggri
+* Flavian Negri
 * Eymeric Zougs
 
